@@ -1,0 +1,120 @@
+{
+  "spill_id": "SPILL_001",
+  "spill_location": {
+    "latitude": 28.8,
+    "longitude": -91.5
+  },
+  "detection_time": "2025-09-05T10:00:00Z",
+  "candidates": [
+    {
+      "rank": 1,
+      "vessel_id": "367500230",
+      "vessel_name": "MICHELLE",
+      "vessel_type": "90",
+      "risk_score": 96.41,
+      "closest_distance_km": 0.67,
+      "hours_before_spill": 46.21,
+      "ais_records": 60,
+      "movement_score": 40
+    },
+    {
+      "rank": 2,
+      "vessel_id": "368027980",
+      "vessel_name": "TRITON PATRIOT",
+      "vessel_type": "34",
+      "risk_score": 88.91,
+      "closest_distance_km": 1.03,
+      "hours_before_spill": 29.07,
+      "ais_records": 15,
+      "movement_score": 35
+    },
+    {
+      "rank": 3,
+      "vessel_id": "367509350",
+      "vessel_name": "CONNOR ANTHONY",
+      "vessel_type": "60",
+      "risk_score": 79.14,
+      "closest_distance_km": 1.74,
+      "hours_before_spill": 43.03,
+      "ais_records": 11,
+      "movement_score": 35
+    },
+    {
+      "rank": 4,
+      "vessel_id": "367123560",
+      "vessel_name": "KYLIE D",
+      "vessel_type": "70",
+      "risk_score": 78.53,
+      "closest_distance_km": 0.78,
+      "hours_before_spill": 13.48,
+      "ais_records": 5,
+      "movement_score": 20
+    },
+    {
+      "rank": 5,
+      "vessel_id": "367161870",
+      "vessel_name": "CAPT THANH",
+      "vessel_type": "30",
+      "risk_score": 70.08,
+      "closest_distance_km": 4.16,
+      "hours_before_spill": 14.88,
+      "ais_records": 2,
+      "movement_score": 30
+    },
+    {
+      "rank": 6,
+      "vessel_id": "368376130",
+      "vessel_name": "THEO C",
+      "vessel_type": "52",
+      "risk_score": 56.23,
+      "closest_distance_km": 7.08,
+      "hours_before_spill": 7.16,
+      "ais_records": 2,
+      "movement_score": 20
+    },
+    {
+      "rank": 7,
+      "vessel_id": "367488370",
+      "vessel_name": "RACHEL",
+      "vessel_type": "32",
+      "risk_score": 32.64,
+      "closest_distance_km": 10.07,
+      "hours_before_spill": 74.96,
+      "ais_records": 3,
+      "movement_score": 20
+    },
+    {
+      "rank": 8,
+      "vessel_id": "367305890",
+      "vessel_name": "LADY LAB",
+      "vessel_type": "60",
+      "risk_score": 29.41,
+      "closest_distance_km": 7.23,
+      "hours_before_spill": 24.56,
+      "ais_records": 6,
+      "movement_score": 0
+    },
+    {
+      "rank": 9,
+      "vessel_id": "367156260",
+      "vessel_name": "WARREN THOMAS",
+      "vessel_type": "90",
+      "risk_score": 28.07,
+      "closest_distance_km": 6.03,
+      "hours_before_spill": 76.45,
+      "ais_records": 67,
+      "movement_score": 0
+    },
+    {
+      "rank": 10,
+      "vessel_id": "367563240",
+      "vessel_name": "PATRICA JEAN",
+      "vessel_type": "31",
+      "risk_score": 20.85,
+      "closest_distance_km": 10.1,
+      "hours_before_spill": 44.47,
+      "ais_records": 11,
+      "movement_score": 0
+    }
+  ]
+}
