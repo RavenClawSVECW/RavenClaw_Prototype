@@ -1,0 +1,62 @@
+[
+  {
+    "mmsi": "419001001",
+    "vessel_name": "MV Ocean Star",
+    "vessel_type": "Tanker",
+    "latitude": 14.235,
+    "longitude": 81.165,
+    "speed_knots": 11.8,
+    "heading": 48,
+    "timestamp": "2026-09-05T06:00:00Z"
+  },
+  {
+    "mmsi": "419001002",
+    "vessel_name": "Sea Trader",
+    "vessel_type": "Cargo",
+    "latitude": 14.275,
+    "longitude": 81.225,
+    "speed_knots": 13.2,
+    "heading": 62,
+    "timestamp": "2026-09-05T06:30:00Z"
+  },
+  {
+    "mmsi": "419001003",
+    "vessel_name": "Blue Horizon",
+    "vessel_type": "Container",
+    "latitude": 14.33,
+    "longitude": 81.28,
+    "speed_knots": 16.5,
+    "heading": 90,
+    "timestamp": "2026-09-05T07:00:00Z"
+  },
+  {
+    "mmsi": "419001004",
+    "vessel_name": "Eastern Pearl",
+    "vessel_type": "Tanker",
+    "latitude": 14.18,
+    "longitude": 81.08,
+    "speed_knots": 10.4,
+    "heading": 20,
+    "timestamp": "2026-09-05T05:30:00Z"
+  },
+  {
+    "mmsi": "419001005",
+    "vessel_name": "Coastal Runner",
+    "vessel_type": "Cargo",
+    "latitude": 14.42,
+    "longitude": 81.35,
+    "speed_knots": 14.7,
+    "heading": 135,
+    "timestamp": "2026-09-05T08:00:00Z"
+  },
+  {
+    "mmsi": "419001006",
+    "vessel_name": "Indian Voyager",
+    "vessel_type": "Tanker",
+    "latitude": 14.26,
+    "longitude": 81.19,
+    "speed_knots": 9.6,
+    "heading": 42,
+    "timestamp": "2026-09-05T07:30:00Z"
+  }
+]

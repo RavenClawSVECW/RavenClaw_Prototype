@@ -1,0 +1,19 @@
+{
+  "spill_id": "SPILL-2026-0905-001",
+  "detection_time": "2026-09-05T10:00:00Z",
+  "center": {
+    "latitude": 14.25,
+    "longitude": 81.2
+  },
+  "boundary": {
+    "latitude_min": 14.2,
+    "latitude_max": 14.35,
+    "longitude_min": 81.1,
+    "longitude_max": 81.3
+  },
+  "spill_area_km2": 42.6,
+  "estimated_age_hours": 24,
+  "spread_direction": "North-East",
+  "estimated_drift_speed_knots": 1.8,
+  "confidence": 0.91
+}
